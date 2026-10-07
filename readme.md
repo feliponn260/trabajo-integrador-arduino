@@ -1,5 +1,7 @@
 # Bitácora de Proyecto: Sistema de Automatización de Iluminación con Arduino UNO
 
+# Por Felipe Morales, Lautaro Bongiorno, Selene Zalazar
+
 ## 1. Definición de la Problemática
 En muchos hogares, oficinas y espacios comunes, es común el hábito de dejar las luces encendidas al retirarse de una habitación, lo que genera un **consumo energético innecesario** y un incremento evitable en la factura de electricidad. Asimismo, en situaciones de oscuridad, buscar el interruptor manual puede resultar incómodo o inseguro (especialmente para niños o adultos mayores). 
 
