@@ -58,3 +58,5 @@ A continuación se detalla el presupuesto estimado de los componentes necesarios
 1. Conexión física del circuito en protoboard respetando los pines digitales de Arduino.
 2. Desarrollo y carga del sketch preliminar en el IDE de Arduino.
 3. Pruebas de campo y calibración del potenciómetro de sensibilidad del sensor PIR.
+
+# https://canva.link/po00lphcdw6kokv
