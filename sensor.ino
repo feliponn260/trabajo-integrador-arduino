@@ -16,7 +16,7 @@ void loop() {
   int presencia = digitalRead(pinPIR);
 
   if (presencia == HIGH) {
-    Serial.println("movimiento detectado...");
+    Serial.println("...movimiento detectado...");
     digitalWrite(pinRele, LOW);
   } else {
     digitalWrite(pinRele, HIGH);
