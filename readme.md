@@ -45,12 +45,12 @@ A continuación se detalla el presupuesto estimado de los componentes necesarios
 
 | Componente | Cantidad | Precio Unitario (ARS) | Subtotal (ARS) |
 | :--- | :---: | :---: | :---: |
-| **Placa Arduino UNO (Compatible) + Cable USB** | 1 | $15.300 | $15.300 |
+| **Placa Arduino UNO (Compatible) + Cable USB** | 1 | $10.300 | $10.300 |
 | **Sensor de Movimiento PIR HC-SR501** | 1 | $4.200 | $4.200 |
 | **Módulo Relé de 1 Canal (5V)** | 1 | $3.500 | $3.500 |
 | **Protoboard y Cables de Conexión (Jumpers)** | 1 set | $5.000 | $5.000 |
 | **Fuente de Alimentación / Cargador 5V** | 1 | $4.000 | $4.000 |
-| **TOTAL ESTIMADO** | | | **$32.000** |
+| **TOTAL ESTIMADO** | | | **$22.100** |
 
 ---
 
